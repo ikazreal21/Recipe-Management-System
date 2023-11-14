@@ -13,7 +13,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="assets/assets/images/favicon.png" type="">
 
-  <title> Feane </title>
+  <title> Recipe </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="assets/css/styles2.css" />
@@ -34,7 +34,7 @@
 
   <div class="hero_area">
     <div class="bg-box">
-      <img src="assets/images/hero-bg.jpg" alt="">
+      <img src="assets/images/hero-bg2.jpg" alt="">
     </div>
     <!-- header section strats -->
     <header class="header_section">
@@ -53,13 +53,13 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav  mx-auto ">
               <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <!-- <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> -->
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="menu.html">Recipe's</a>
+                <!-- <a class="nav-link" href="menu.html">Recipe's</a> -->
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <!-- <a class="nav-link" href="about.html">About</a> -->
               </li>
             </ul>
             <div class="user_option">
@@ -71,10 +71,10 @@
                   <i class="fa fa-search" aria-hidden="true"></i>
                 </button>
               </form> -->
-              <a href="" class="order_online">
+              <a href="login.php" class="order_online">
                 Login
               </a>
-              <a href="" class="order_online">
+              <a href="register.php" class="order_online">
                 Register
               </a>
             </div>
@@ -99,7 +99,7 @@
                       Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
                     </p>
                     <div class="btn-box">
-                      <a href="" class="btn1">
+                      <a href="register.php" class="btn1">
                         Register Now
                       </a>
                     </div>
