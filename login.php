@@ -54,7 +54,7 @@ try {
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
-  <link rel="shortcut icon" href="assets/assets/images/favicon.png" type="">
+  <link rel="shortcut icon" href="assets/images/favicon.png" type="">
 
   <title> Recipe </title>
 
@@ -87,7 +87,7 @@ try {
             </div>
             <div class="row">
               <div class="col-md-3">
-                
+
                 </div>
             <div class="col-md-6">
               <h2 style="text-align:center; color:white;">
@@ -111,7 +111,7 @@ try {
               </div>
             </div>
             <div class="col-md-3">
-              
+
               </div>
           </div>
         </div>

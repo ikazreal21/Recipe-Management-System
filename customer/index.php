@@ -1,7 +1,6 @@
-<?php 
+<?php
 
-
- ?>
+?>
 
 <!DOCTYPE html>
 <html>
@@ -16,7 +15,7 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
-  <link rel="shortcut icon" href="../assets/assets/images/favicon.png" type="">
+  <link rel="shortcut icon" href="../assets/images/favicon.png" type="">
 
   <title> Recipe </title>
 
@@ -88,7 +87,7 @@
 
     <section class="about_section layout_padding">
       <div class="container  ">
-  
+
         <div class="row">
           <div class="col-md-6 ">
             <div class="img-box">

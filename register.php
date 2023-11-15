@@ -1,5 +1,6 @@
 <?php
 session_start();
+
 require_once 'dbconn.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -48,7 +49,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
-  <link rel="shortcut icon" href="assets/assets/images/favicon.png" type="">
+  <link rel="shortcut icon" href="assets/images/favicon.png" type="">
 
   <title> Recipe </title>
 
@@ -81,7 +82,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             </div>
             <div class="row">
               <div class="col-md-3">
-                
+
                 </div>
             <div class="col-md-6">
               <h2 style="text-align:center; color:white;">
@@ -108,7 +109,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
               </div>
             </div>
             <div class="col-md-3">
-              
+
               </div>
           </div>
         </div>
